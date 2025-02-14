@@ -1,0 +1,4 @@
+### sock ###
+inventory-service/docker/mysql/mysql.sock
+order-service/mysql/mysql.sock
+product-service/docker/mysql/data/mysql.sock
